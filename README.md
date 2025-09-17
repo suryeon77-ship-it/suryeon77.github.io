@@ -1,2 +1,4 @@
 # suryeon77.github.io
-Weekly paper summaries in biochemistry and cancer research, along with personal research notes and coding projects.
+This site contains my weekly paper summaries in biochemistry and cancer research,  
+as well as personal research notes and coding projects.  
+I use this space to track my research progress and interests over time.  
